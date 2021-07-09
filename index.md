@@ -3,8 +3,9 @@
 ## What is OpnEco?
 
 "Ah, if only I could get someone to read this for feedback."
+\
 "Only if I could know which keywords to target..."
-
+  
 We all have been there, haven't we?
 
 OpnEco is a Python3 project developed just for that. To be a constant companion throughout your content writing process. By content writers, for content writers.
@@ -16,7 +17,7 @@ OpnEco is a Python3 project developed just for that. To be a constant companion 
 
 ## Installation and usage:
 
-OpnEco doesn't require any installation. You can simply download, resolve its dependencies, and use it. But ensure that you have a proper Internet connection and Python installed and properly configured. Windows users may need to check if Python is added to the PATH environment variable in their systems.
+OpnEco doesn't require any time-consuming installation. You can simply download, resolve its dependencies, and use it. Just ensure that during installation, you have a proper Internet connection and Python installed and properly configured. Windows users may need to check if Python is added to the ```PATH``` environment variable in their systems.
 
 ### Steps:
 
